@@ -1,2 +1,3 @@
 I am Dechen
-I am a developer
+I am a developer and programmer
+I work with BDB
